@@ -59,6 +59,23 @@ This generates the following json:
 }
 ```
 
+Download
+--------
+
+You can depend on the library through Maven:
+```xml
+<dependency>
+  <groupId>ch.halarious</groupId>
+  <artifactId>halarious-core</artifactId>
+  <version>0.14</version>
+</dependency>
+```
+or Gradle:
+```groovy
+compile 'ch.halarious:halarious-core:0.14'
+```
+
+
 ### Licence
 
 halarious is available under the [Apache 2.0 Licence](http://www.apache.org/licenses/LICENSE-2.0).
